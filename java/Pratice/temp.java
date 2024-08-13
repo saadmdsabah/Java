@@ -13,6 +13,10 @@ public class temp {
         }
     }
 
+    public static void nothing(){
+
+    }
+
     public static Node builderTree(int val, Node root){
         if(root == null){
             return new Node(val);
