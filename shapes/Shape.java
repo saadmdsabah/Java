@@ -1,4 +1,4 @@
-package shp;
+package shapes;
 
 class Shape {
 

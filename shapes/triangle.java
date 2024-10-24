@@ -1,5 +1,4 @@
-package shp;
-import shp.Shape;
+package shapes;
 
 public class triangle {
     public static void main(String[] args) {
