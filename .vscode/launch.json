@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ThreadExample",
+      "request": "launch",
+      "mainClass": "threading.ThreadExample",
+      "projectName": "Java_496a098e"
+    },
+    {
+      "type": "java",
+      "name": "basics",
+      "request": "launch",
+      "mainClass": "threading.basics",
+      "projectName": "Java_496a098e"
+    },
+    {
+      "type": "java",
+      "name": "ArgsExample",
+      "request": "launch",
+      "mainClass": "ArgsExample",
+      "projectName": "Java_496a098e"
+    },
+    {
+      "type": "java",
       "name": "temp",
       "request": "launch",
       "mainClass": "temp",
